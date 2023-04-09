@@ -1,21 +1,21 @@
 {
-  "name": "nearest_finder",
+  "name": "the_hundred",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. set environment variables:     __PORT__ : http web server port     __LAT__  : (optional) default laitude     __LON__  : (optional) default longitude 2. Instal dependencies: ```sh npm install ``` 3. start ```sh npm run start ``` ### Created using Express.js ### API Doc [HERE](https://documenter.getpostman.com/view/15905495/2s93XsY66e)",
   "main": "index.js",
   "scripts": {
     "start": "node src/api/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maverickreal/nearest_finder.git"
+    "url": "git+https://github.com/maverickreal/the_hundred.git"
   },
   "author": "maverick",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maverickreal/nearest_finder/issues"
+    "url": "https://github.com/maverickreal/the_hundred/issues"
   },
-  "homepage": "https://github.com/maverickreal/nearest_finder#readme",
+  "homepage": "https://github.com/maverickreal/the_hundred#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
